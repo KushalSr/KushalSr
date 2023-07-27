@@ -3,7 +3,10 @@
 
 <h1 align="center">Hi 👋, I'm Kushal Srivastava</h1>
 <h3 align="center">A passionate Web Developer.</h3>
+
+<img align="right" alt="daftpunktocat" width="400" src="daftpunktocat-guy.gif" />
 <p>BCA Graduated, Full-Stack Developer. Experienced in Front-End and Backend-Technologies.</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushalsr&label=Profile%20views&color=0e75b6&style=flat" alt="kushalsr" /> </p>
 
