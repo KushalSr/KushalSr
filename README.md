@@ -30,3 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kushalsr&show_icons=true&locale=en" alt="kushalsr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kushalsr&" alt="kushalsr" /></p>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kushalsr&bg_color=0f0f0f&color=dc143c&line=dc143c&point=dc143c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
