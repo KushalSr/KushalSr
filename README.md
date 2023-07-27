@@ -2,7 +2,8 @@
 ![e36ec678-7984-4cdd-8e4c-a3932772ff8e](https://github.com/KushalSr/KushalSr/assets/66409016/0b690f51-8ab2-4605-b3bf-24d172f377fd)
 
 <h1 align="center">Hi 👋, I'm Kushal Srivastava</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A passionate Web Developer.</h3>
+<p>BCA Graduated, Full-Stack Developer. Experienced in Front-End and Backend-Technologies.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushalsr&label=Profile%20views&color=0e75b6&style=flat" alt="kushalsr" /> </p>
 
