@@ -35,7 +35,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kushalsr&show_icons=true&locale=en" alt="kushalsr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kushalsr&" alt="kushalsr" />
-  <img align="center" alt="programming" width="1000" height="600" src="programming.gif" />
+  <img align="center" alt="programming" width="1000" height="400" src="programming.gif" />
 </p>
 
 
