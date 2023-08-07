@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **MERN, AWS, LINUX, C++, PYTHON**
 
-- 📫 How to reach me **kushalsrivastava@gmail.com**
+- 📫 How to reach me **kushalsrivastava10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
