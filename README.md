@@ -38,8 +38,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-  <br>
   <br>
   <img align="center" alt="programming" width="950" height="340" src="programming.gif" />
 </p>
