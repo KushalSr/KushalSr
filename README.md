@@ -6,7 +6,8 @@
 
 <img align="right" alt="daftpunktocat" width="400" src="daftpunktocat-guy.gif" />
 
-<p>BCA Graduated, Full-Stack Developer. Experienced in Front-End and Backend-Technologies.</p>
+<p>BCA Graduated, Full-Stack Developer.
+Experienced in Front-End and Backend-Technologies.</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushalsr&label=Profile%20views&color=0e75b6&style=flat" alt="kushalsr" /> </p>
@@ -15,7 +16,7 @@
 
 - 💬 Ask me about **MERN, AWS, LINUX, C++, PYTHON**
 
-- 📫 How to reach me **kushalsrivastava10@gmail.com**
+- 📫 How to reach me **thekushalsr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
