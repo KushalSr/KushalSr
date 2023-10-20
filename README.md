@@ -1,9 +1,11 @@
 
-![e36ec678-7984-4cdd-8e4c-a3932772ff8e](https://github.com/KushalSr/KushalSr/assets/66409016/0b690f51-8ab2-4605-b3bf-24d172f377fd)
+<!-- ![e36ec678-7984-4cdd-8e4c-a3932772ff8e](https://github.com/KushalSr/KushalSr/assets/66409016/0b690f51-8ab2-4605-b3bf-24d172f377fd) -->
+
 [![An image of @kushalsr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kushalsr)](https://holopin.io/@kushalsr)
 
 <h1 align="center">Hi 👋, I'm Kushal Srivastava</h1>
 <h3 align="center">A passionate Web Developer.</h3>
+
 
 <img align="right" alt="daftpunktocat" width="400" src="daftpunktocat-guy.gif" />
 
