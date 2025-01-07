@@ -4,20 +4,20 @@
 [![An image of @kushalsr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kushalsr)](https://holopin.io/@kushalsr)
 
 <h1 align="center">Hi 👋, I'm Kushal Srivastava</h1>
-<h3 align="center">A passionate Web Developer.</h3>
+<h3 align="center">A passionate DevOps Engineer.</h3>
 
 
 <img align="right" alt="daftpunktocat" width="400" src="daftpunktocat-guy.gif" />
 
-<p>BCA Graduated, Full-Stack Developer.
-Experienced in Front-End and Backend-Technologies.</p>
+<p>
+Experienced in DevOps and Cloud Technologies.</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushalsr&label=Profile%20views&color=0e75b6&style=flat" alt="kushalsr" /> </p>
 
-- 🌱 I’m currently learning **ReactJs,**
+- 🌱 I’m currently working as Cloud Automation Engineer.
 
-- 💬 Ask me about **MERN, AWS, LINUX, C++, PYTHON**
+- 💬 Ask me about **Jenkins, AWS, LINUX, YAML, Ansible, Azure, Kubernetes, Docker, PYTHON**
 
 - 📫 How to reach me **thekushalsr@gmail.com**
 
